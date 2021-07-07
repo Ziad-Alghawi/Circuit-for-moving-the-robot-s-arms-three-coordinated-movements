@@ -19,9 +19,9 @@ In the beginning I reached the Ground and the Power
 
 Then I connected the servo motors with the Arduino 
 
-additionally I wrote code for three diffirent movement 
+Additionally I wrote code for three different movements
 
-first movement for the angel from 180 degree to 0 degree
+First movement for the angel from 180 degree to 0 degree
 
 Second movement for the angel from 90 degree to 0 degree
 
